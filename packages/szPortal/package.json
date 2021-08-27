@@ -1,7 +1,7 @@
 {
-  "name": "szPortal",
+  "name": "szportal",
   "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "58127bdeaa3d8451dbd1a1c4925a8bf858a2ba65"
+  "gitHead": "4a3b9cc515115735254f7c28f8648d71f7dea126"
 }
